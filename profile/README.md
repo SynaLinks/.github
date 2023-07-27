@@ -1,25 +1,30 @@
-# SynaLinks: The safiest way to Artificial General Intelligence
+# SynaLinks
+## Pioneering Safe Artificial General Intelligence
 
-SynaLinks is a French startup founded in 2023 following the scientific advancements made in natural language processing in recent years. Emerging from the French technological hub, we advocate for a thoughtful and pragmatic use of Artificial General Intelligence (AGI). By combining language models with a traditional branch of Artificial Intelligence (AI) known as symbolic AI, we aim to explain and represent problems in a human-comprehensible form.
+*SynaLinks* is a French startup from Toulouse founded in 2023, capitalizing on recent scientific advancements in natural language processing. Hailing from the technological hub in France, our core mission is to promote a thoughtful and responsible approach to Artificial General Intelligence (AGI). By integrating language models with the established field of symbolic AI, we strive to represent and explain complex problems in a human-comprehensible form.
 
-At SynaLinks, our mission is to shape an ethical and responsible future for hybrid AGI. Leveraging our expertise in robotics and human-robot interaction, we strive to create AGIs that interact harmoniously with humans while offering the advanced functionalities of deep learning and symbolic AI. We are committed to developing ethical, transparent, and secure AI solutions to address the most complex challenges of our society.
+At *SynaLinks*, we are committed to shaping an ethical and secure future for hybrid AGI. Our expertise in robotics and human-robot interaction allows us to create AGIs that interact harmoniously with humans while leveraging the advanced functionalities of deep learning and symbolic AI. We aim to develop AI solutions that are not only capable but also transparent and aligned with human values, addressing the most complex challenges of our society responsibly.
+
+As we venture into the realm of AGI, we recognize the importance of staying abreast of the latest research and collaborating with industry experts. We are dedicated to continuously assessing and mitigating potential risks associated with AGI, ensuring the safety and beneficial impact of this transformative technology.
+
+*SynaLinks* is at the forefront of the AGI movement, pioneering a path towards safe and responsible AGI development. Through our innovative approach and unwavering commitment to ethical principles, we aim to create a positive and enduring impact on society.
 
 As part of this mission, we are currently developing several free and open-source products:
 
-- **[SymboLinks](https://github.com/SynaLinks/SymboLinks)**: A hybrid vector and graph database for AGI systems built on Redis, an open-source and local database system, allowing businesses to retain control over their sensitive data.
+- **[SymboLinks](https://github.com/SynaLinks/SymboLinks)**: A hybrid vector and graph database for AGI systems built on Redis, an open-source and local database, allowing businesses to retain control over their sensitive data.
 
 - **[HybridAGI](https://github.com/SynaLinks/HybridAGI)**: A programmable neuro-symbolic AGI system, that can operate safely, available under a free and open-source license.
 
 - **[HybridAGI-library](https://github.com/SynaLinks/HybridAGI-library)**: A collection of curated programs to help your build your own HybridAGI.
 
-Obviously, more projects focused on these aspects will emerges.. stay tuned !
+*Obviously, more projects focused on these aspects will emerge... stay tuned!*
 
 For businesses, we offer a range of services, including:
 
-- **Prompt Engineer Training**: To assist companies in automating their internal processes using HybridAGI.
-- **Business and Institutional Consulting**: To assess risks and opportunities related to AGI and guide them in implementing ethical AI.
-- **Cybersecurity Training Based on these Technologies**: To help companies strengthen their security posture against potential AGI-related threats.
-- **Red Teaming Services based on these Technologies**: To test and improve the resilience of their systems against cyberattacks using these technologies.
+- **Prompt Engineer Training**: We assist companies in automating their internal processes using HybridAGI.
+- **Business and Institutional Consulting**: Our team evaluates risks and opportunities related to AGI and provides guidance for the ethical implementation of AI.
+- **Cybersecurity Training Based on these Technologies**: We help companies bolster their security posture against potential AGI-related threats.
+- **Red Teaming Services based on these Technologies**: Our services test and enhance the resilience of their systems against cyberattacks using these technologies.
 
 ## Roadmap
 
