@@ -1,2 +1,0 @@
-# .github
-SynaLinks description
