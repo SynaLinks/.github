@@ -11,7 +11,7 @@ As we venture into the realm of AGI, we recognize the importance of staying abre
 
 As part of this mission, we are currently developing several free and open-source products:
 
-- **[SymboLinks](https://github.com/SynaLinks/SymboLinks)**: A hybrid vector and graph database for AGI systems built on Redis, an open-source and local database, allowing businesses to retain control over their sensitive data.
+- **[SymboLinks](https://github.com/SynaLinks/SymboLinks)**: A hybrid vector and graph database for AGI systems built on Redis, an open-source and local database, allowing AGI systems to navigate and work within their memory in a unix-like fashion.
 
 - **[HybridAGI](https://github.com/SynaLinks/HybridAGI)**: A programmable neuro-symbolic AGI system, that can operate safely, available under a free and open-source license.
 
