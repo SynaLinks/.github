@@ -53,4 +53,6 @@ To ensure seamless handling and processing of different data modalities, we will
 
 ## Contact Us
 
+[![](https://dcbadge.vercel.app/api/server/zM2rEfsqxj)](https://discord.gg/zM2rEfsqxj)
+
 We're constantly striving to improve and expand our project, and these roadmap milestones are just a glimpse of what's in store for the future. We highly value feedback and suggestions from our community, so if you have any ideas or feature requests, please feel free to open an issue or reach out to our team. Together, we'll create a powerful and versatile platform that meets the needs of various users and use cases. Stay tuned for more updates as we make progress on this exciting journey!
