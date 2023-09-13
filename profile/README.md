@@ -1,6 +1,6 @@
 # SynaLinks
 ## Pioneering Safe Artificial General Intelligence
-
+[![](https://dcbadge.vercel.app/api/server/zM2rEfsqxj)](https://discord.gg/zM2rEfsqxj)
 *SynaLinks* is a French startup from Toulouse founded in 2023, capitalizing on recent scientific advancements in natural language processing. Hailing from the technological hub in France, our core mission is to promote a thoughtful and responsible approach to Artificial General Intelligence (AGI). By integrating language models with the established field of symbolic AI, we strive to represent and explain complex problems in a human-comprehensible form.
 
 At *SynaLinks*, we are committed to shaping an ethical and secure future for hybrid AGI. Our expertise in robotics and human-robot interaction allows us to create AGIs that interact harmoniously with humans while leveraging the advanced functionalities of deep learning and symbolic AI. We aim to develop AI solutions that are not only capable but also transparent and aligned with human values, addressing the most complex challenges of our society responsibly.
@@ -52,7 +52,5 @@ We'll integrate support for various data modalities, including images, audio, an
 To ensure seamless handling and processing of different data modalities, we will collaborate with external tools and libraries specialized in multimodal data. This integration will allow users to leverage cutting-edge technologies within our system.
 
 ## Contact Us
-
-[![](https://dcbadge.vercel.app/api/server/zM2rEfsqxj)](https://discord.gg/zM2rEfsqxj)
 
 We're constantly striving to improve and expand our project, and these roadmap milestones are just a glimpse of what's in store for the future. We highly value feedback and suggestions from our community, so if you have any ideas or feature requests, please feel free to open an issue or reach out to our team. Together, we'll create a powerful and versatile platform that meets the needs of various users and use cases. Stay tuned for more updates as we make progress on this exciting journey!
