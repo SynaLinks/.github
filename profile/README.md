@@ -1,6 +1,7 @@
 # SynaLinks
 ## Pioneering Safe Artificial General Intelligence
 [![](https://dcbadge.vercel.app/api/server/zM2rEfsqxj)](https://discord.gg/zM2rEfsqxj)
+
 *SynaLinks* is a French startup from Toulouse founded in 2023, capitalizing on recent scientific advancements in natural language processing. Hailing from the technological hub in France, our core mission is to promote a thoughtful and responsible approach to Artificial General Intelligence (AGI). By integrating language models with the established field of symbolic AI, we strive to represent and explain complex problems in a human-comprehensible form.
 
 At *SynaLinks*, we are committed to shaping an ethical and secure future for hybrid AGI. Our expertise in robotics and human-robot interaction allows us to create AGIs that interact harmoniously with humans while leveraging the advanced functionalities of deep learning and symbolic AI. We aim to develop AI solutions that are not only capable but also transparent and aligned with human values, addressing the most complex challenges of our society responsibly.
