@@ -12,20 +12,13 @@ As we venture into the realm of AGI, we recognize the importance of staying abre
 
 As part of this mission, we are currently developing several free and open-source products:
 
-- **[SymboLinks](https://github.com/SynaLinks/SymboLinks)**: A hybrid vector and graph database for AGI systems built on Redis, an open-source and local database, allowing AGI systems to navigate and work within their memory in a unix-like fashion.
+- **[SymboLinks](https://github.com/SynaLinks/SymboLinks)**: A hybrid vector and graph database for AGI systems powered by Redis, allowing AGI systems to navigate and work within their memory in a unix-like fashion.
 
 - **[HybridAGI](https://github.com/SynaLinks/HybridAGI)**: A programmable neuro-symbolic AGI system, that can operate safely, available under a free and open-source license.
 
 - **[HybridAGI-library](https://github.com/SynaLinks/HybridAGI-library)**: A collection of curated programs to help your build your own HybridAGI.
 
 *Obviously, more projects focused on these aspects will emerge... stay tuned!*
-
-For businesses, we offer a range of services, including:
-
-- **Prompt Engineer Training**: We assist companies in automating their internal processes using HybridAGI.
-- **Business and Institutional Consulting**: Our team evaluates risks and opportunities related to AGI and provides guidance for the ethical implementation of AI.
-- **Cybersecurity Training Based on these Technologies**: We help companies bolster their security posture against potential AGI-related threats.
-- **Red Teaming Services based on these Technologies**: Our services test and enhance the resilience of their systems against cyberattacks using these technologies.
 
 ## Roadmap
 
