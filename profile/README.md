@@ -1,6 +1,6 @@
 # SynaLinks
-## Pioneering Safe Artificial General Intelligence
-[![](https://dcbadge.vercel.app/api/server/zM2rEfsqxj)](https://discord.gg/zM2rEfsqxj)
+## Pioneering Safe Neuro-Symbolic Artificial General Intelligence
+[![Discord](https://dcbadge.vercel.app/api/server/zM2rEfsqxj)](https://discord.gg/zM2rEfsqxj)
 
 *SynaLinks* is a French startup from Toulouse founded in 2023, capitalizing on recent scientific advancements in natural language processing. Hailing from the technological hub in France, our core mission is to promote a thoughtful and responsible approach to Artificial General Intelligence (AGI). By integrating language models with the established field of symbolic AI, we strive to represent and explain complex problems in a human-comprehensible form.
 
@@ -12,11 +12,11 @@ As we venture into the realm of AGI, we recognize the importance of staying abre
 
 As part of this mission, we are currently developing several free and open-source products:
 
-- **[SymboLinks](https://github.com/SynaLinks/SymboLinks)**: A hybrid vector and graph database for AGI systems powered by Redis, allowing AGI systems to navigate and work within their memory in a unix-like fashion.
+- **[HybridAGI-knowledge](https://github.com/SynaLinks/HybridAGI-knowledge)**: A hybrid vector and graph database for AGI systems powered by Redis, allowing Agents to navigate and work within their memory in a unix-like fashion.
 
 - **[HybridAGI](https://github.com/SynaLinks/HybridAGI)**: A programmable neuro-symbolic AGI system, that can operate safely, available under a free and open-source license.
 
-- **[HybridAGI-library](https://github.com/SynaLinks/HybridAGI-library)**: A collection of curated programs to help your build your own HybridAGI.
+- **[HybridAGI-app](https://github.com/SynaLinks/HybridAGI-app)**: A Streamlit App to interact with HybridAGI.
 
 *Obviously, more projects focused on these aspects will emerge... stay tuned!*
 
@@ -29,17 +29,14 @@ In this phase, our primary focus will be on improving the core capabilities of t
 - **Enhancing Self-Programming Capabilities**:
 We are committed to pushing the boundaries of our system's self-programming capabilities. By leveraging HybridAGI graph programs, we aim to enable our system to imagine, develop and test its own graph programs. This means the system will become more efficient, adaptive, and capable of handling a broader range of tasks.
 
-- **Enhancing Retrieval Capabilities**:
-Efficient and accurate retrieval of information is essential. We'll work on optimizing our retrieval algorithms, speeding up the search process and providing users with more relevant results from the metagraph and hybridstore.
-
 - **Developing a Fast Text-Only Language Model (LLM) with Large Context Size**:
 In the context of HybridAGI, we recognize the significance of a dedicated language model tailored to text-based tasks. We will focus on creating an ultra-fast LLMs capable of processing vast amounts of text data efficiently. This LLM will be designed with extra-large context size, enabling HybridAGI to reason on longer programs and provide more accurate responses. We plan to train two different LLM, one for decision making and the other for acting allowing us to optimize speed and efficiency.
 
-### Phase 2: Multimodal Support
+### Phase 2: Multimodal Support & Robotics Applications
 
 Building on the strengthened core, we will focus on introducing multimodal support to the system, opening up exciting possibilities for diverse data types.
 
-- **Adding Multimodal Support into the Metagraph and Hybridstore**:
+- **Adding Multimodal Support**:
 We'll integrate support for various data modalities, including images, audio, and more. This enhancement will enable users to work with a rich array of data, enhancing the versatility and utility of the system.
 
 - **Integrating External Tools for Multimodal Support**:
