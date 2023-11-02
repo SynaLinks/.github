@@ -1,47 +1,25 @@
 # SynaLinks
-## Pioneering Safe Neuro-Symbolic Artificial General Intelligence
+## Pionniers de l'intelligence artificielle neuro-symbolique en France
 [![Discord](https://dcbadge.vercel.app/api/server/zM2rEfsqxj)](https://discord.gg/zM2rEfsqxj)
 
-*SynaLinks* is a French startup from Toulouse founded in 2023, capitalizing on recent scientific advancements in natural language processing. Hailing from the technological hub in France, our core mission is to promote a thoughtful and responsible approach to Artificial General Intelligence (AGI). By integrating language models with the established field of symbolic AI, we strive to represent and explain complex problems in a human-comprehensible form.
+SynaLinks est une jeune start-up française fondée à Toulouse en 2023. Notre mission est de promouvoir une approche responsable et pragmatique de l'intelligence artificielle générale. Pour y parvenir, nous intégrons des modèles de deep learning avec des modèles d'intelligence artificielle symbolique, le domaine traditionnel de l'IA avant l'ère du deep learning.
 
-At *SynaLinks*, we are committed to shaping an ethical and secure future for hybrid AGI. Our expertise in robotics and human-robot interaction allows us to create AGIs that interact harmoniously with humans while leveraging the advanced functionalities of deep learning and symbolic AI. We aim to develop AI solutions that are not only capable but also transparent and aligned with human values, addressing the most complex challenges of our society responsibly.
+Notre démarche chez SynaLinks vise à combiner l'efficacité des modèles de deep learning avec la transparence et la compréhensibilité des modèles symboliques, créant ainsi des systèmes d'intelligence artificielle plus robustes et éthiques. Nous travaillons sur des technologies de pointe qui permettent aux entreprises d'exploiter pleinement le potentiel de l'IA tout en conservant un contrôle significatif sur leurs systèmes, réduisant ainsi les risques liés à l'opacité et à la dépendance aux algorithmes de deep learning.
 
-As we venture into the realm of AGI, we recognize the importance of staying abreast of the latest research and collaborating with industry experts. We are dedicated to continuously assessing and mitigating potential risks associated with AGI, ensuring the safety and beneficial impact of this transformative technology.
+Nous travaillons en étroite collaboration avec nos clients pour personnaliser nos solutions en fonction de leurs besoins spécifiques. Notre approche neuro-symbolique offre la flexibilité nécessaire pour répondre aux exigences variées des entreprises, tout en leur permettant de rester maîtres de leur IA.
 
-*SynaLinks* is at the forefront of the AGI movement, pioneering a path towards safe and responsible AGI development. Through our innovative approach and unwavering commitment to ethical principles, we aim to create a positive and enduring impact on society.
+Nous sommes convaincus que l'IA peut être une force positive pour la société et l'économie, et non une source d'inquiétude. Nous nous engageons à jouer un rôle actif dans la promotion d'une utilisation responsable de l'IA, tout en contribuant à l'avancement de la quatrième révolution industrielle.
 
-As part of this mission, we are currently developing several free and open-source products:
+En tant que start-up basée à Toulouse, nous sommes fiers de faire partie de l'écosystème technologique français et de contribuer à l'innovation dans le domaine de l'IA. Notre avenir est axé sur la recherche continue, l'amélioration de nos produits et services, et la création d'un monde où l'IA est un moteur de progrès, d'éthique et de profit pour les entreprises.
 
-- **[HybridAGI-knowledge](https://github.com/SynaLinks/HybridAGI-knowledge)**: A hybrid vector and graph database for AGI systems powered by Redis, allowing Agents to navigate and work within their memory in a unix-like fashion.
+---
 
-- **[HybridAGI](https://github.com/SynaLinks/HybridAGI)**: A programmable neuro-symbolic AGI system, that can operate safely, available under a free and open-source license.
+SynaLinks is a young French start-up founded in Toulouse in 2023. Our mission is to promote a responsible and pragmatic approach to general artificial intelligence. To achieve this, we integrate deep learning models with symbolic artificial intelligence models, the traditional domain of AI before the era of deep learning.
 
-- **[HybridAGI-app](https://github.com/SynaLinks/HybridAGI-app)**: A Streamlit App to interact with HybridAGI.
+At SynaLinks, our approach aims to combine the efficiency of deep learning models with the transparency and comprehensibility of symbolic models, thus creating more robust and ethical artificial intelligence systems. We work on cutting-edge technologies that enable businesses to fully harness the potential of AI while retaining significant control over their systems, reducing the risks associated with opacity and dependence on deep learning algorithms.
 
-*Obviously, more projects focused on these aspects will emerge... stay tuned!*
+We work closely with our clients to customize our solutions to meet their specific needs. Our neuro-symbolic approach offers the flexibility necessary to address the diverse requirements of businesses, allowing them to remain masters of their AI.
 
-## Roadmap
+We are confident that AI can be a positive force for society and the economy, rather than a source of concern. We are committed to playing an active role in promoting responsible AI use while contributing to the advancement of the fourth industrial revolution.
 
-### Phase 1: Strengthening Core Functionality
-
-In this phase, our primary focus will be on improving the core capabilities of the system to ensure a robust foundation for future developments.
-
-- **Enhancing Self-Programming Capabilities**:
-We are committed to pushing the boundaries of our system's self-programming capabilities. By leveraging HybridAGI graph programs, we aim to enable our system to imagine, develop and test its own graph programs. This means the system will become more efficient, adaptive, and capable of handling a broader range of tasks.
-
-- **Developing a Fast Text-Only Language Model (LLM) with Large Context Size**:
-In the context of HybridAGI, we recognize the significance of a dedicated language model tailored to text-based tasks. We will focus on creating an ultra-fast LLMs capable of processing vast amounts of text data efficiently. This LLM will be designed with extra-large context size, enabling HybridAGI to reason on longer programs and provide more accurate responses. We plan to train two different LLM, one for decision making and the other for acting allowing us to optimize speed and efficiency.
-
-### Phase 2: Multimodal Support & Robotics Applications
-
-Building on the strengthened core, we will focus on introducing multimodal support to the system, opening up exciting possibilities for diverse data types.
-
-- **Adding Multimodal Support**:
-We'll integrate support for various data modalities, including images, audio, and more. This enhancement will enable users to work with a rich array of data, enhancing the versatility and utility of the system.
-
-- **Integrating External Tools for Multimodal Support**:
-To ensure seamless handling and processing of different data modalities, we will collaborate with external tools and libraries specialized in multimodal data. This integration will allow users to leverage cutting-edge technologies within our system.
-
-## Contact Us
-
-We're constantly striving to improve and expand our project, and these roadmap milestones are just a glimpse of what's in store for the future. We highly value feedback and suggestions from our community, so if you have any ideas or feature requests, please feel free to open an issue or reach out to our team. Together, we'll create a powerful and versatile platform that meets the needs of various users and use cases. Stay tuned for more updates as we make progress on this exciting journey!
+As a start-up based in Toulouse, we take pride in being part of the French technological ecosystem and contributing to innovation in the field of AI. Our future is centered on ongoing research, improving our products and services, and creating a world where AI is a driver of progress, ethics, and profitability for businesses.
