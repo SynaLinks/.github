@@ -1,6 +1,6 @@
 # SynaLinks
 ## Pionniers de l'intelligence artificielle neuro-symbolique en France
-[![Discord](https://dcbadge.vercel.app/api/server/zM2rEfsqxj)](https://discord.gg/zM2rEfsqxj)
+[![Discord](https://dcbadge.vercel.app/api/server/82nt97uXcM)](https://discord.gg/82nt97uXcM)
 
 SynaLinks est une jeune start-up française fondée à Toulouse en 2023. Notre mission est de promouvoir une approche responsable et pragmatique de l'intelligence artificielle générale. Pour y parvenir, nous intégrons des modèles de deep learning avec des modèles d'intelligence artificielle symbolique, le domaine traditionnel de l'IA avant l'ère du deep learning.
 
